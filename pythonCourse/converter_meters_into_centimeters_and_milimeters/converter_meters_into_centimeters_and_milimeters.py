@@ -1,0 +1,8 @@
+meters = float(input("Type a value in meter : \n"))
+km = (meters /  1000)
+hm = (meters/100)
+dam = (meters / 10 )
+dc = ( meters* 10)
+cm = (meters*100)
+mm = (meters*1000)
+print(f'The meter {meters} correspond to {km} kilometers\n{hm} hectometer\n{dam}diameters\n{dc}decimeters\n{cm}centimeter\n{mm}milimeters\n')

@@ -1,0 +1,5 @@
+n1 = int(input("Type your first value \n"))
+n2 = int(input("Type your second value \n"))
+media = ((n1 + n2) / 2)
+print(f'The media between {n1} and {n2} is {media}\n')
+print("The media is {:.2f}".format(media))
