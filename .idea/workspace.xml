@@ -5,8 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="25e76a11-f9af-45cd-93fb-18d69337df55" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/exercises/ex001/hello_world.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercises/ex002/zen_of_python.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercises/ex003/meet_name.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercises/ex004/show_inputed_thing_information.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pythonCourse/modules/read_angles_props.py" beforeDir="false" afterPath="$PROJECT_DIR$/pythonCourse/modules/read_angles_props.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -14,7 +17,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="DarkyenusTimeTracker">
-    <option name="totalTimeSeconds" value="8856" />
+    <option name="totalTimeSeconds" value="10196" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -46,33 +49,38 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;Python.base_36.executor&quot;: &quot;Run&quot;,
-    &quot;Python.deck.executor&quot;: &quot;Run&quot;,
-    &quot;Python.double_triple_doublesquare.executor&quot;: &quot;Run&quot;,
-    &quot;Python.dunder_methods.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex003.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex003b.executor&quot;: &quot;Run&quot;,
-    &quot;Python.exbb.executor&quot;: &quot;Run&quot;,
-    &quot;Python.exbbb.executor&quot;: &quot;Run&quot;,
-    &quot;Python.int.executor&quot;: &quot;Run&quot;,
-    &quot;Python.is_resource.executor&quot;: &quot;Run&quot;,
-    &quot;Python.printing_sqrt.executor&quot;: &quot;Run&quot;,
-    &quot;Python.program_giving_integer_part.executor&quot;: &quot;Run&quot;,
-    &quot;Python.read_angles_props.executor&quot;: &quot;Run&quot;,
-    &quot;Python.reading_opposite_sides_and_showing_results.executor&quot;: &quot;Run&quot;,
-    &quot;Python.sucessor_antecessor.executor&quot;: &quot;Run&quot;,
-    &quot;Python.teste.executor&quot;: &quot;Run&quot;,
-    &quot;Python.truncated_number.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.base_36.executor": "Run",
+    "Python.deck.executor": "Run",
+    "Python.double_triple_doublesquare.executor": "Run",
+    "Python.dunder_methods.executor": "Run",
+    "Python.ex003.executor": "Run",
+    "Python.ex003b.executor": "Run",
+    "Python.exbb.executor": "Run",
+    "Python.exbbb.executor": "Run",
+    "Python.hello_world.executor": "Run",
+    "Python.int.executor": "Run",
+    "Python.is_resource.executor": "Run",
+    "Python.meet_name.executor": "Run",
+    "Python.printing_sqrt.executor": "Run",
+    "Python.program_giving_integer_part.executor": "Run",
+    "Python.read_angles_props.executor": "Run",
+    "Python.reading_opposite_sides_and_showing_results.executor": "Run",
+    "Python.show_inputed_thing_information.executor": "Run",
+    "Python.sucessor_antecessor.executor": "Run",
+    "Python.teste.executor": "Run",
+    "Python.truncated_number.executor": "Run",
+    "Python.zen_of_python.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/exercises/ex003" />
       <recent name="$PROJECT_DIR$/pythonCourse/modules" />
       <recent name="$PROJECT_DIR$/ex003" />
     </key>
