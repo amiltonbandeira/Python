@@ -5,11 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="25e76a11-f9af-45cd-93fb-18d69337df55" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/exercises/ex001/hello_world.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercises/ex002/zen_of_python.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercises/ex003/meet_name.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercises/ex004/show_inputed_thing_information.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercises/ex006/antecessor_sucessor.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercises/ex006/antecessor_sucessor_v2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercises/ex007/number_operations.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercises/ex008/media.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercises/ex008/media_v2.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercises/ex004/show_inputed_thing_information.py" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/ex004/show_inputed_thing_information.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,7 +19,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="DarkyenusTimeTracker">
-    <option name="totalTimeSeconds" value="10196" />
+    <option name="totalTimeSeconds" value="13555" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -52,6 +54,8 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.antecessor_sucessor.executor": "Run",
+    "Python.antecessor_sucessor_v2.executor": "Run",
     "Python.base_36.executor": "Run",
     "Python.deck.executor": "Run",
     "Python.double_triple_doublesquare.executor": "Run",
@@ -63,7 +67,11 @@
     "Python.hello_world.executor": "Run",
     "Python.int.executor": "Run",
     "Python.is_resource.executor": "Run",
+    "Python.media.executor": "Run",
+    "Python.media_v2.executor": "Run",
     "Python.meet_name.executor": "Run",
+    "Python.number_operations.executor": "Run",
+    "Python.number_sum.executor": "Run",
     "Python.printing_sqrt.executor": "Run",
     "Python.program_giving_integer_part.executor": "Run",
     "Python.read_angles_props.executor": "Run",
@@ -80,9 +88,11 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/exercises/ex007" />
+      <recent name="$PROJECT_DIR$/exercises/ex004" />
+      <recent name="$PROJECT_DIR$/exercises/ex005" />
       <recent name="$PROJECT_DIR$/exercises/ex003" />
       <recent name="$PROJECT_DIR$/pythonCourse/modules" />
-      <recent name="$PROJECT_DIR$/ex003" />
     </key>
   </component>
   <component name="SharedIndexes">
