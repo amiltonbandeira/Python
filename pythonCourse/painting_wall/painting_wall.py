@@ -1,5 +1,0 @@
-width = float(input("Width of the wall: \n"))
-height = float(input("Height of the wall: \n"))
-area = (width * height)
-gallon = (area/2)
-print("You wall has area of {}x{} and it´s area is {}m^2.To paint this wall, you will need {} of paint\n".format(width,height,area,gallon))

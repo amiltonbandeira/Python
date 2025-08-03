@@ -5,14 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="25e76a11-f9af-45cd-93fb-18d69337df55" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/pythonCourse/modules/printing_sqrt/printing_sqrt.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pythonCourse/modules/program_giving_integer_part.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pythonCourse/modules/reading_opposite_sides_and_showing_results.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pythonCourse/modules/truncated_number.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pythonCourse/painting_wall/painting_wall.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pythonCourse/product_descount/product_descount.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pythonCourse/show_equivalent_money_in_dollar/show_equivalent_money_in_dolar.py" beforeDir="false" afterPath="$PROJECT_DIR$/pythonCourse/show_equivalent_money_in_dollar/show_equivalent_money_in_dolar.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pythonCourse/show_table_of_a_number/show_table_of_a_number.py" beforeDir="false" afterPath="$PROJECT_DIR$/pythonCourse/show_table_of_a_number/show_table_of_a_number.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pythonCourse/modules/read_angles_props.py" beforeDir="false" afterPath="$PROJECT_DIR$/pythonCourse/modules/read_angles_props.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,7 +14,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="DarkyenusTimeTracker">
-    <option name="totalTimeSeconds" value="7315" />
+    <option name="totalTimeSeconds" value="8856" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -52,28 +46,31 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "Python.base_36.executor": "Run",
-    "Python.deck.executor": "Run",
-    "Python.double_triple_doublesquare.executor": "Run",
-    "Python.dunder_methods.executor": "Run",
-    "Python.ex003.executor": "Run",
-    "Python.ex003b.executor": "Run",
-    "Python.exbb.executor": "Run",
-    "Python.exbbb.executor": "Run",
-    "Python.int.executor": "Run",
-    "Python.is_resource.executor": "Run",
-    "Python.printing_sqrt.executor": "Run",
-    "Python.program_giving_integer_part.executor": "Run",
-    "Python.sucessor_antecessor.executor": "Run",
-    "Python.truncated_number.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "main"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;Python.base_36.executor&quot;: &quot;Run&quot;,
+    &quot;Python.deck.executor&quot;: &quot;Run&quot;,
+    &quot;Python.double_triple_doublesquare.executor&quot;: &quot;Run&quot;,
+    &quot;Python.dunder_methods.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ex003.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ex003b.executor&quot;: &quot;Run&quot;,
+    &quot;Python.exbb.executor&quot;: &quot;Run&quot;,
+    &quot;Python.exbbb.executor&quot;: &quot;Run&quot;,
+    &quot;Python.int.executor&quot;: &quot;Run&quot;,
+    &quot;Python.is_resource.executor&quot;: &quot;Run&quot;,
+    &quot;Python.printing_sqrt.executor&quot;: &quot;Run&quot;,
+    &quot;Python.program_giving_integer_part.executor&quot;: &quot;Run&quot;,
+    &quot;Python.read_angles_props.executor&quot;: &quot;Run&quot;,
+    &quot;Python.reading_opposite_sides_and_showing_results.executor&quot;: &quot;Run&quot;,
+    &quot;Python.sucessor_antecessor.executor&quot;: &quot;Run&quot;,
+    &quot;Python.teste.executor&quot;: &quot;Run&quot;,
+    &quot;Python.truncated_number.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/pythonCourse/modules" />
