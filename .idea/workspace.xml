@@ -5,13 +5,41 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="25e76a11-f9af-45cd-93fb-18d69337df55" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/exercises/ex006/antecessor_sucessor.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercises/ex006/antecessor_sucessor_v2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercises/ex007/number_operations.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercises/ex008/media.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercises/ex008/media_v2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercises/append.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercises/ex009/convert_meter.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercises/ex010/table.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercises/ex011/convert_dolar_kwanza.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercises/ex012/conver_euro_kwanza.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercises/ex013/wall.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercises/ex014/product_price.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercises/ex015/employee.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercises/ex016/convert_celsius_fahrenheit.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercises/ex017/car_price.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercises/ex018/module.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercises/ex019/integer_portion.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercises/ex019/integer_portion_v2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercises/ex020/hypotenuse.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercises/ex021/cos_tan_sen.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercises/ex022/random_choosen.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercises/ex023/sort_order.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercises/ex024/play_sound.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercises/ex025/name_info.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercises/ex026/separate_number.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercises/ex026/separate_string.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercises/ex027/starts_with_santo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercises/ex028/look_silva.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercises/ex029/search_in.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercises/ex030/complete_number.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercises/ex031/play_with_computer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercises/ex032/check_velocity.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercises/ex033/show_par_or_impar.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercises/ex034/calculate_distance.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercises/ex035/year.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercises/ex036/biggest_number.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercises/ex037/salary.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercises/split.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercises/str_manipulation.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercises/ex004/show_inputed_thing_information.py" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/ex004/show_inputed_thing_information.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,7 +47,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="DarkyenusTimeTracker">
-    <option name="totalTimeSeconds" value="13555" />
+    <option name="totalTimeSeconds" value="30119" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -56,44 +84,107 @@
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "Python.antecessor_sucessor.executor": "Run",
     "Python.antecessor_sucessor_v2.executor": "Run",
+    "Python.append.executor": "Run",
     "Python.base_36.executor": "Run",
+    "Python.calculate_distance.executor": "Run",
+    "Python.car_price.executor": "Run",
+    "Python.check_velocity.executor": "Run",
+    "Python.complete_number.executor": "Run",
+    "Python.conver_euro_kwanza.executor": "Run",
+    "Python.convert_celsius_fahrenheit.executor": "Run",
+    "Python.convert_dolar_kwanza.executor": "Run",
+    "Python.convert_meter.executor": "Run",
+    "Python.cos_tan_sen.executor": "Run",
     "Python.deck.executor": "Run",
     "Python.double_triple_doublesquare.executor": "Run",
     "Python.dunder_methods.executor": "Run",
+    "Python.employee.executor": "Run",
     "Python.ex003.executor": "Run",
     "Python.ex003b.executor": "Run",
     "Python.exbb.executor": "Run",
     "Python.exbbb.executor": "Run",
     "Python.hello_world.executor": "Run",
+    "Python.hypotenuse.executor": "Run",
     "Python.int.executor": "Run",
+    "Python.integer_portion.executor": "Run",
+    "Python.integer_portion_v2.executor": "Run",
     "Python.is_resource.executor": "Run",
+    "Python.look_silva.executor": "Run",
     "Python.media.executor": "Run",
     "Python.media_v2.executor": "Run",
     "Python.meet_name.executor": "Run",
+    "Python.module.executor": "Run",
+    "Python.name_info.executor": "Run",
     "Python.number_operations.executor": "Run",
     "Python.number_sum.executor": "Run",
+    "Python.play_sound.executor": "Run",
+    "Python.play_with_computer.executor": "Run",
     "Python.printing_sqrt.executor": "Run",
+    "Python.product_price.executor": "Run",
     "Python.program_giving_integer_part.executor": "Run",
+    "Python.random_choosen.executor": "Run",
     "Python.read_angles_props.executor": "Run",
     "Python.reading_opposite_sides_and_showing_results.executor": "Run",
+    "Python.salary.executor": "Run",
+    "Python.search_in.executor": "Run",
+    "Python.separate_number.executor": "Run",
+    "Python.separate_string.executor": "Run",
     "Python.show_inputed_thing_information.executor": "Run",
+    "Python.show_par_or_impar.executor": "Run",
+    "Python.sort_order.executor": "Run",
+    "Python.split.executor": "Run",
+    "Python.starts_with_santo.executor": "Run",
+    "Python.str_manipulation.executor": "Run",
     "Python.sucessor_antecessor.executor": "Run",
+    "Python.table.executor": "Run",
     "Python.teste.executor": "Run",
     "Python.truncated_number.executor": "Run",
+    "Python.wall.executor": "Run",
+    "Python.year.executor": "Run",
     "Python.zen_of_python.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "main"
+    "git-widget-placeholder": "main",
+    "settings.editor.selected.configurable": "preferences.lookFeel"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/exercises/ex028" />
+      <recent name="$PROJECT_DIR$/exercises/ex020" />
       <recent name="$PROJECT_DIR$/exercises/ex007" />
       <recent name="$PROJECT_DIR$/exercises/ex004" />
       <recent name="$PROJECT_DIR$/exercises/ex005" />
-      <recent name="$PROJECT_DIR$/exercises/ex003" />
-      <recent name="$PROJECT_DIR$/pythonCourse/modules" />
     </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="play_sound" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/exercises/ex024" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/exercises/ex024/play_sound.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.play_sound" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>

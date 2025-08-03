@@ -1,0 +1,5 @@
+sentence = input("Type something: \n")
+sentence = sentence.upper().strip()
+print("The letter A appears {} times ".format(sentence.count("A")))
+print("The first letter A apear at first in position {}".format(sentence.find("A")))
+print("The last letter A appears in position {}".format(sentence.rfind("A")))

@@ -1,0 +1,10 @@
+measurement = float(input("Type the measurement value: \n"))
+centimeter = measurement * (10**2)
+millimeter = measurement * (10**3)
+decimeter = measurement * (10**1)
+diameter = measurement / (10**1)
+hectometer = measurement / (10**2)
+kilometer = measurement / (10**3)
+print("The measurement of {}m corresponds to : \n")
+print("{}km\n{}hm\n{}dam\n{}dm\n{}cm\n{}mm\n".format(kilometer,hectometer,diameter,decimeter,centimeter,millimeter))
+
